@@ -1,0 +1,7 @@
+Button {
+  background-color: cadetblue;
+  border-radius: 10px;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
